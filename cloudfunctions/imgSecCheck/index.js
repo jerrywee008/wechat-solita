@@ -1,8 +1,8 @@
 /**
  * 针对图片做敏感图鉴定
  * 
- * @author: eysonyou
- * @create: 2019-05-16
+ * @author: fwei
+ * @create: 2024-01-15
  */
 
 // 云函数入口文件
@@ -12,7 +12,7 @@ cloud.init({
     // 1.release - 正式
     // 2.test    - 测试
     // env: 'test'
-    env: 'release'
+    env: 'miya-1ge4i0ca163c1fd5'
 });
 
 // 云函数入口函数

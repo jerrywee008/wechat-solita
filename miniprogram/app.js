@@ -1,7 +1,7 @@
 /**
  * 小程序入口文件
  * 
- * @author: Eysonyou
+ * @author: fwei
  * @create: 2019-05-14
  */
 App({
@@ -14,7 +14,7 @@ App({
                 // 1.release - 正式
                 // 2.test    - 测试
                 // env: 'test',
-                env: 'release',
+                env: 'miya-1ge4i0ca163c1fd5',
                 traceUser: true,
             });
         }

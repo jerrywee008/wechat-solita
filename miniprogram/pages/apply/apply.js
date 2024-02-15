@@ -1,7 +1,7 @@
 /**
  * 报名
  * 
- * @author: Eysonyou
+ * @author: fwei
  * @create: 2019-05-14
  */
 const app = getApp();

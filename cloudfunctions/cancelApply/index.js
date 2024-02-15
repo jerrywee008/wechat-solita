@@ -1,8 +1,8 @@
 /**
  * 取消报名接口
  * 
- * @author: eysonyou
- * @create: 2019-05-16
+ * @author: fwei
+ * @create: 2024-01-15
  */
 
 
@@ -13,7 +13,7 @@ cloud.init({
     // 1.release - 正式
     // 2.test    - 测试
     // env: 'test'
-    env: 'release'
+    env: 'miya-1ge4i0ca163c1fd5'
 });
 
 // 初始化数据库连接
